@@ -30,5 +30,3 @@ fields:
   default: overview
   config:
     required: true
-pages:
-- overview.md
