@@ -10,14 +10,16 @@ sections:
     the University of Twente. On this website I showcase my tech projects and occasionally
     a blog post about my life. '
   image: images/5.jpg
-  actions: []
+  actions:
+  - url: "/blog"
+    label: To the blog posts
 - type: featuresblock
   template: featuresblock
   section_id: features
   component: features_block.html
   featureslist: []
   title: Projects
-  subtitle: ''
+  subtitle: All my beautiful tech projects can be seen here
 layout: home
 menu:
   main:
