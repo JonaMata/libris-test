@@ -1,10 +1,10 @@
 ---
 title: Blog
-subtitle: This is an optional subtitle for the blog page
+subtitle: See what in do in my humble life
 img_path: images/5.jpg
-menus:
-  main:
-    title: Blog
-    weight: 3
 layout: blog
+menu:
+  main:
+    weight: 3
+
 ---
