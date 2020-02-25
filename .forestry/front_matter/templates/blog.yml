@@ -19,7 +19,7 @@ fields:
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
   default: blog
   config:
     required: true
