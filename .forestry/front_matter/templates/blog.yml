@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - blog/index.md
+- blog/index.md
