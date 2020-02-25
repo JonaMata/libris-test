@@ -8,3 +8,5 @@ fields:
     required: false
   label: Title
   hidden: false
+pages:
+- _layouts/blog-post-section.html
