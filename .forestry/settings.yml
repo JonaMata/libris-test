@@ -5,13 +5,11 @@ admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e281e535356d3001abd5653/webhook/forestry
 sections:
 - type: directory
-  path: ''
-  label: Root
-  create: all
+  path: _layouts
+  label: Layouts
+  create: documents
   match: "**/*"
-- type: jekyll-pages
-  label: pages
-  create: all
+  new_doc_ext: ".html"
 - type: document
   path: _config.yml
   label: Global Site Config
@@ -67,7 +65,7 @@ sections:
   label: Page
   create: all
   match: "**/*.md"
-  exclude: "{_posts/**,README.md,LICENSE.md,index.md,blog/index.md,overview.md,showcase.md}"
+  exclude: "{_posts/**,README.md,LICENSE.md}"
   templates:
   - page
 - type: jekyll-posts
