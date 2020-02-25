@@ -38,10 +38,6 @@ fields:
     required: true
 pages:
 - _posts/2018-01-15-function-of-design.md
-- _posts/2018-01-15-function-of-design.md
-- _posts/2019-03-10-conf.md
 - _posts/2019-03-10-conf.md
 - _posts/2019-04-24-libris-theme.md
-- _posts/2019-04-24-libris-theme.md
-- _posts/2019-05-27-community.md
 - _posts/2019-05-27-community.md
