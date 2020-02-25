@@ -1,4 +1,10 @@
 ---
 label: Layout
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  hidden: false
