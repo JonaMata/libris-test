@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Welcom
+  title: Welcome
   section_id: hero
   component: hero_block.html
   content: 'I''m Jonathan Matarazzi, a second year Creative Technology student at
