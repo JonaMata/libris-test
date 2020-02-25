@@ -1,15 +1,15 @@
 {
   "links": [
     {
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/jonathanmatarazzi/"
-    },
-    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
-      "url": "https://github.com/"
+      "url": "https://github.com/JonaMata"
+    },
+    {
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/jonathanmatarazzi/"
     }
   ]
 }
